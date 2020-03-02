@@ -1,0 +1,10 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+media/
+/static
+static
+static/
+.vscode
+venv
