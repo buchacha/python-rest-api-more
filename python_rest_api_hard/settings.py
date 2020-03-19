@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'rest_api_test_hard',
         'USER': 'buchacha',
-        'PASSWORD': 'Cloud313Boss',
+        'PASSWORD': '',
         'HOST': 'localhost', # Or an IP Address that your DB is hosted on
         'PORT': '',
     }
